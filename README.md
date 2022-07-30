@@ -8,4 +8,4 @@ Start server
 deno task dev
 ```
 
-Open urls in client at [localhost:3000](http://localhost:3000)
+Open urls in client at [localhost:8000](http://localhost:8000)
